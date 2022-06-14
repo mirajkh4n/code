@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275167160776",
+    "firebase_url": "https://mvfp-22e00-default-rtdb.firebaseio.com",
+    "project_id": "mvfp-22e00",
+    "storage_bucket": "mvfp-22e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275167160776:android:d9f947375d940e8cc5b8fd",
+        "android_client_info": {
+          "package_name": "com.example.mvfp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275167160776-83el8k1gg3f3skuis8fjnc39buvq3mhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoE1KvkdDS-kGTRahujt5SC0YbSlu0Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275167160776-83el8k1gg3f3skuis8fjnc39buvq3mhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
